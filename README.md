@@ -3,4 +3,4 @@
 - feature-A
 - fix-B
 - feature-C
-- fix bug(issue)
+- fix bug(issue close)
